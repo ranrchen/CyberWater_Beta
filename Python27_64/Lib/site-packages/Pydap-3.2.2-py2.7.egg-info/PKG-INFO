@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: Pydap
+Version: 3.2.2
+Summary: An implementation of the Data Access Protocol.
+Home-page: http://pydap.org/
+Author: James Hiebert
+Author-email: james@hiebert.name
+License: MIT
+Description: UNKNOWN
+Keywords: opendap dods dap science data
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
